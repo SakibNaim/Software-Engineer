@@ -1,0 +1,21 @@
+h1{
+    color: rgb(245, 140, 4);
+    text-decoration: overline;
+}
+
+.class{
+    background-color: whitesmoke;
+    text-align: center;
+    margin: 30px;
+    border: 10px solid rgb(109, 19, 3);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+    font-size: 30px;
+    text-align: center;
+    background-image: url(../image/2025-09-10-11.31-Photoroom.jpg);
+    height: 250px;
+    background-image: contain;
+    background-image: cover;
+}
